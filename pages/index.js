@@ -1,11 +1,10 @@
-import { Container, Box, Heading, Image, Link,SimpleGrid, useColorModeValue, Button, List, ListItem, Icon } from "@chakra-ui/react"
+import { Container, Box, Heading, Image, Link, useColorModeValue, Button, List, ListItem, Icon } from "@chakra-ui/react"
 import NextLink from 'next/link'
 import Section from "../components/section"
 import Paragraph from "../components/paragraph"
 import Layout from "../components/layouts/article"
 import {ChevronRightIcon} from "@chakra-ui/icons"
 import { BioSection, BioYear } from "../components/bio"
-import { GridItem } from "../components/grid-item"
 import {
 	IoLogoInstagram,
 	IoLogoFacebook

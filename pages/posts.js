@@ -1,9 +1,7 @@
 import { Container, Heading, Text } from "@chakra-ui/react"
 import Layout from "../components/layouts/article"
 import Section from "../components/section"
-import { GridItem } from "@chakra-ui/react"
 
-import thumbFishWorkflow from '../public/images/contents/youtube-fish-workflow.jpg'
 
 const Posts =() => {
 	return (
